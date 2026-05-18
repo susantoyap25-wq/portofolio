@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(f:\\tkj/**)",
+      "Bash(dir *)"
+    ]
+  },
+  "$version": 3
+}
