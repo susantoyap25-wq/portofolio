@@ -3356,3 +3356,6 @@ body.dark-mode .gradasi {
 .mandarin {
   font-weight: bold;
 }
+.back-link{
+    color: var(--primary-gold);
+}
